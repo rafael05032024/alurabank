@@ -1,0 +1,16 @@
+{
+  "name": "alurabank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rafael05032024/alurabank.git",
+  "author": "F8367918 Rafael Luiz Pereira <rafael.pereira.918@bb.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jquery": "2.0.42",
+    "typescript": "^5.4.4"
+  },
+  "scripts": {
+    "build": "yarn tsc",
+    "build:watch": "yarn tsc --watch"
+  }
+}
